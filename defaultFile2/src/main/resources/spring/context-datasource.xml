@@ -7,8 +7,8 @@
 	
 	<bean id="dataSourceSpied" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 	     <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-	     <property name="url" value="jdbc:mysql://my8001.gabiadb.com:3306/hjsb"/>
-	     <property name="username" value="hjsb"/>
-	     <property name="password" value="dpdlcl1992!"/>
+	     <property name="url" value="jdbc:mysql://"/>
+	     <property name="username" value=""/>
+	     <property name="password" value=""/>
 	</bean>
 </beans>
